@@ -1,0 +1,9 @@
+myShell v0.1 is an experimental bash like shell for linux. Currently it can run programs, either from user input,
+or reading from a batch file.
+
+This code is released under GPL v2. 
+
+TODO: Implementing features like controll statements and environment variables
+
+Compiling: 
+ 	make
